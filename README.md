@@ -74,9 +74,9 @@ leaving the table until you ate your fifteen pancakes!*".
 Oh, man, that is **awful**!
 
 
-So, we take that horrendous `33` lower limit **off** for most part of the
+Thus, we take that horrendous `33` lower limit **off** for most part of the
 party, because, in the end, its only real use is for **offsetting** the
-value into the right index of the characters table. That frees us from
+value into the right index of the characters table. This frees us from
 filling our code with **PAGES** of hard to understand stupid conditionals
 that, in the end, don't even add up too much for the internal logic.
 
@@ -89,17 +89,15 @@ Do you know why are they called "prime"? It's very interesting and most
 people (at least in Brazil) has absolutely no idea of the reason. I've
 written a brief explanation in Portuguese here:
 
-[O dia que o professor de Matemática admitiu que estava errado
-- Porque, afinal, o número 1 não
-  é primo](http://cleber.netlify.com/a-vida-de-cléber/o-dia-que-o-professor-de-matematica-admitiu-que-estava-errado)
+[O dia que o professor de Matemática admitiu que estava errado - Porque,afinal, o número 1 não é primo](http://cleber.netlify.com/a-vida-de-cléber/o-dia-que-o-professor-de-matematica-admitiu-que-estava-errado)
 
 ### About calculating prime numbers
 
-**DON'T calculate prime numbers in your program**. Never. It's plain
-stupid. Really.
+**DON'T calculate prime numbers in your program!** Never! It's plain
+stupid. Trust me.
 
 
-**I'M TALKING TO YOU! HEY! PUT THE KEYBOARD DOWN, NOW!**
+**HEY, I'M TALKING TO YOU! HEY! PUT THE KEYBOARD DOWN, NOW!**
 
 
 Why would you waste so much energy all over again? Hell, people are
