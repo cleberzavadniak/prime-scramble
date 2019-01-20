@@ -51,6 +51,9 @@ You must have permission to use `pip install`, so I recommend you use any
 kind of *virtualenv* tool and activate a proper virtual environment.
 
 
+**This program was only tested using Python 3.6.8!**
+
+
 ## "Barrel Values"
 
 You see, it's perfectly okay to have a superior limit. Life is like that
